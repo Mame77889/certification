@@ -1,0 +1,141 @@
+
+.somes{
+    display: flex;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    align-items: center;
+    padding: 0px 200px;
+
+}
+
+
+.some{
+    text-align: center;
+    
+}
+.section{
+    padding: -92px 12px;
+    margin-top: -202px;
+}
+
+.container{
+    margin: auto;
+}
+
+ .some img{
+    width: 100%;
+    height: 90%;  
+    border-radius: 12px;
+}
+h2{
+    color: #005680;
+    padding: 12px 200px;
+}
+.section h3{
+    text-align: center;
+    font-size: 40px;
+}
+.services{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    gap: 30px;
+    
+
+}
+
+.sercice {
+    text-align: center;
+
+}
+.section-title{
+    text-align: center;
+    text-transform: uppercase;
+}
+.section-light p {
+    font-size: 40px;
+    color: #f1f0ec; ;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 36px ;
+    text-align: center;
+
+}
+.section-light{
+    background-color: #c5944b;
+    padding: 50px 0px;
+    margin-top: 12px;
+
+}
+
+.section{
+    margin: auto;
+    
+    padding-top:100px ;
+   padding: 0px 50px;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+.jumbo-test h2{
+    color:#005680;
+
+}
+.btnt{
+    background-color: #005680;
+    height: 68px;
+    width: 143px;
+    border-radius: 8px;
+    color: white;
+    
+}
+.second{
+    text-align: center;
+    padding: 24px;
+}
+.mm {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 5px; 
+    justify-items: center; 
+    align-items: center; 
+}
+
+.main {
+    grid-column: span 3; 
+}
+
+.somess{
+    display: flex;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+    align-items: center;
+    padding: 0px 200px;
+
+}
+h3{
+    color: #005680;
+}
+input{
+    height: 68px;
+    border-radius: 8px;
+    width: 340px;
+}
+.btnn{
+    background-color: #005680;
+    height: 68px;
+    width: 340px;
+    border-radius: 8px;
+    color: white;
+}
+.secteurs{
+    text-align: center;
+    color: white;
+    padding: 100px 0px;
+   
+}
+.sec{
+    color: white;
+}
